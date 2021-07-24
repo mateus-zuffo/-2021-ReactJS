@@ -8,3 +8,5 @@ Anotações referentes ao capítulo 01 do curso de ReactJS oferecido pela Rocket
 1. yarn init -y
 2. yarn add react
 3. yarn add react-dom
+4. yarn add @babel/core @babel/cli @babel/preset-env -D
+5. yarn add @babel/preset-react -D
