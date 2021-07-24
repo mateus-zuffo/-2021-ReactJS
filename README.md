@@ -4,7 +4,7 @@ Curso de ReactJS da Rocketseat
 
 Comecei este curso no dia 23 de julho para aprimorar minhas habilidades de programação e conhecer mais sobre ReacJS. O curso contém 7 capítulos, e eu vou tentar relatar o que foi visto e aprendido.
 
-
+Teste
 
 # English: ReactJS
 Rocketseat's ReactJS course.
