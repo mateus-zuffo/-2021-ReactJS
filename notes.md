@@ -4,6 +4,7 @@ Anotações referentes ao capítulo 01 do curso de ReactJS oferecido pela Rocket
     • BABEL      :  Framework responsável pela tradução do código para diferentes navegadores.
     • Webpack    :   
 }
+
 # Configurando ambiente:
 1. yarn init -y
 2. yarn add react
@@ -12,3 +13,5 @@ Anotações referentes ao capítulo 01 do curso de ReactJS oferecido pela Rocket
 5. yarn add @babel/preset-react -D
 6. yarn add webpack webpack-cli -D
 7. yarn add babel-loader -D
+8. yarn add html-webpack-plugin -D
+9. yarn add webpack-dev-server -D
