@@ -15,4 +15,7 @@ Anotações referentes ao capítulo 01 do curso de ReactJS oferecido pela Rocket
 7.  yarn add babel-loader -D
 8.  yarn add html-webpack-plugin -D
 9.  yarn add webpack-dev-server -D
-10. yarn add cross env -D
+10. yarn add cross-env -D
+11. yarn add style-loader css-loader -D
+12. yarn add sass-loader -D
+13. yarn add node-sass -D
