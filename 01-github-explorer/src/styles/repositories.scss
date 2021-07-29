@@ -6,8 +6,8 @@ section.repository-list{
     }
     ul {
         list-style: none;
-        & + li{
-            margin-bottom: 20px;            
+        li{
+            margin-bottom: 30px;            
         }
         p{
             font-size: 14px;
@@ -16,9 +16,12 @@ section.repository-list{
         }
         a{
             display: inline-block;
-            margin-top: 16px;
+            margin-top:8px;
             text-decoration: none;
             color: #8257e6;
+        }
+        strong{
+            font-size: 20px;
         }     
     }
 
