@@ -2,7 +2,10 @@
 Anotações referentes ao capítulo 01 do curso de ReactJS oferecido pela RocketSeat = {
     • Packet.json:  Arquivo responsável pelas dependências do projeto (01-github-explorer/package.json).
     • BABEL      :  Framework responsável pela tradução do código para diferentes navegadores.
-    • Webpack    :   
+    • Imutabilidade:
+        • usuarios = ['usu01','usu02','usu03']
+        • usuarios.push('usu04') //nop
+        • novoUsuarios = [...usuarios,'usu04']
 }
 
 # Configurando ambiente:
