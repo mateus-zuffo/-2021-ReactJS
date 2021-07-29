@@ -22,3 +22,4 @@ Anotações referentes ao capítulo 01 do curso de ReactJS oferecido pela Rocket
 11. yarn add style-loader css-loader -D
 12. yarn add sass-loader -D
 13. yarn add node-sass -D
+14. yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
