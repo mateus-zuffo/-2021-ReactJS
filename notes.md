@@ -6,6 +6,7 @@ Anotações referentes ao capítulo 01 do curso de ReactJS oferecido pela Rocket
         • usuarios = ['usu01','usu02','usu03']
         • usuarios.push('usu04') //nop
         • novoUsuarios = [...usuarios,'usu04']
+    • useEffect: Cuidado ao não informar qual variável deve-se verificar, pois ao ficar em branco ele entra em loop e caso ele esteja vigiando uma variável que também altera o valor também entrará em loop. 
 }
 
 # Configurando ambiente:
@@ -23,3 +24,6 @@ Anotações referentes ao capítulo 01 do curso de ReactJS oferecido pela Rocket
 12. yarn add sass-loader -D
 13. yarn add node-sass -D
 14. yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
+15. yarn add typescript -D
+16. yarn tsc --init
+17. yarn add @babel/preset-typescript -D
