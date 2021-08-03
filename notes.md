@@ -7,6 +7,7 @@ Anotações referentes ao capítulo 01 do curso de ReactJS oferecido pela Rocket
         • usuarios.push('usu04') //nop
         • novoUsuarios = [...usuarios,'usu04']
     • useEffect: Cuidado ao não informar qual variável deve-se verificar, pois ao ficar em branco ele entra em loop e caso ele esteja vigiando uma variável que também altera o valor também entrará em loop. 
+    • typescript: permite tratar os dados de forma mais clara e objetiva quando são necessários através de uma função, por exemplo. definindo um tipo específico de dados que possuem seus parametros definidos e apenas aceitando que seja chamada a função caso esses dados sejam preenchidos corretamente.
 }
 
 # Configurando ambiente:
