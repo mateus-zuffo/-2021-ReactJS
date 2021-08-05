@@ -28,3 +28,7 @@ Anotações referentes ao capítulo 01 do curso de ReactJS oferecido pela Rocket
 15. yarn add typescript -D
 16. yarn tsc --init
 17. yarn add @babel/preset-typescript -D
+18. yarn add @types/react-dom -D
+19. yarn add @types/react -D
+
+
