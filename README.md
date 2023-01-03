@@ -2,10 +2,10 @@
 # Português: ReactJS
 Curso de ReactJS da Rocketseat
 
-Comecei este curso no dia 23 de julho para aprimorar minhas habilidades de programação e conhecer mais sobre ReacJS. O curso contém 7 capítulos, e eu vou tentar relatar o que foi visto e aprendido.
+Este é um repositório antigo usado para aprender ReactJS oferecido pela RocketSeat, irei dar continuidade nos estudos através da nova versão oferecida pelo ignite.
 
 
 # English: ReactJS
 Rocketseat's ReactJS course.
 
-I started this course on July 23rd, to improve my programming skills and to get to know more about ReactJs.This course contains 7 chapters, and ill try to report what i got and learned from it.
+This is an old repository used to lear ReactJS offered by RocketSeat, i'll kep on studying through the new and updated course Ignite.
